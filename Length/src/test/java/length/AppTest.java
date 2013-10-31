@@ -1,4 +1,4 @@
-package Length;
+package java.length;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
