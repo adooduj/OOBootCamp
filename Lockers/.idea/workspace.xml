@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc774dd9-93d5-4294-aeee-e6388fde50ba" name="Default" comment="" />
-    <ignored path="Length.iws" />
+    <list default="true" id="b7ce9df5-4005-40d8-bc8d-a51a22a0852b" name="Default" comment="" />
+    <ignored path="Lockers.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/LenghtTest.java" changelist="fc774dd9-93d5-4294-aeee-e6388fde50ba" time="1383043835099" ignored="false" />
-    <file path="/Lenght.java" changelist="fc774dd9-93d5-4294-aeee-e6388fde50ba" time="1383043999686" ignored="false" />
-    <file path="/Length.java" changelist="fc774dd9-93d5-4294-aeee-e6388fde50ba" time="1383044000687" ignored="false" />
-    <file path="/LengthTest.java" changelist="fc774dd9-93d5-4294-aeee-e6388fde50ba" time="1383041995548" ignored="false" />
-    <file path="/fragment.java" changelist="fc774dd9-93d5-4294-aeee-e6388fde50ba" time="1383040539798" ignored="false" />
-    <file path="/LengthUnit.java" changelist="fc774dd9-93d5-4294-aeee-e6388fde50ba" time="1383042598661" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="fc774dd9-93d5-4294-aeee-e6388fde50ba" time="1383185887613" ignored="false" />
-    <file path="/App.java" changelist="fc774dd9-93d5-4294-aeee-e6388fde50ba" time="1383185868750" ignored="false" />
-    <file path="/AppTest.java" changelist="fc774dd9-93d5-4294-aeee-e6388fde50ba" time="1383185880581" ignored="false" />
+    <file path="/LockerTest.java" changelist="b7ce9df5-4005-40d8-bc8d-a51a22a0852b" time="1383648874860" ignored="false" />
+    <file path="/fragment.java" changelist="b7ce9df5-4005-40d8-bc8d-a51a22a0852b" time="1383646163382" ignored="false" />
+    <file path="/Locker.java" changelist="b7ce9df5-4005-40d8-bc8d-a51a22a0852b" time="1383700392207" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,23 +63,23 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Length" />
+    <favorites_list name="Lockers" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Locker.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/locker/Locker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="22" column="21" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/length/AppTest.java">
+      <file leaf-file-name="LockerTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/com/thoughtworks/locker/LockerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="20" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+            <state line="64" column="0" selection-start="1630" selection-end="1630" vertical-scroll-proportion="0.5724466">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,37 +87,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LengthTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/length/LengthTest.java">
+      <file leaf-file-name="LockerTicket.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/locker/LockerTicket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="33" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
+            <state line="4" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/length/App.java">
+      <file leaf-file-name="Bag.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/locker/Bag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LengthUnit.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/length/LengthUnit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.4013378">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Length.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/length/Length.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="19" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+            <state line="2" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -140,25 +116,20 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/Length/LenghtTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Length/Lenght.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Length/LengthTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Length/Length.java" />
-        <option value="$PROJECT_DIR$/src/test/java/length/LengthTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/length/Length.java" />
-        <option value="$PROJECT_DIR$/src/main/length/LengthUnit.java" />
-        <option value="$PROJECT_DIR$/src/test/length/LengthTest.java" />
-        <option value="$PROJECT_DIR$/src/main/length/Length.java" />
-        <option value="$PROJECT_DIR$/src/main/java/length/App.java" />
-        <option value="$PROJECT_DIR$/src/test/java/length/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.thoughtworks.lockers/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.thoughtworks.lockers/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.thoughtworks.lockers/LockerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.thoughtworks.lockers/Locker.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/locker/LockerTicket.java" />
+        <option value="$PROJECT_DIR$/src/test/com/thoughtworks/locker/LockerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/locker/Locker.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="30" />
-    <option name="width" value="1377" />
-    <option name="height" value="746" />
+    <option name="y" value="22" />
+    <option name="width" value="1402" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -186,50 +157,33 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
+              <option name="myItemId" value="Lockers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
+              <option name="myItemId" value="Lockers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
+              <option name="myItemId" value="Lockers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
+              <option name="myItemId" value="Lockers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
+              <option name="myItemId" value="Lockers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -241,17 +195,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="length" />
+              <option name="myItemId" value="locker" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
+              <option name="myItemId" value="Lockers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
+              <option name="myItemId" value="Lockers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -263,68 +217,48 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="length" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Length" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="length" />
+              <option name="myItemId" value="locker" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thoughtworks.locker" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="length" />
+      <recent name="com.thoughtworks.locker" />
+      <recent name="java.com.thoughtworks.lockers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LengthTest">
-    <configuration default="false" name="LengthTest" type="JUnit" factoryName="JUnit" temporary="true">
+  <component name="RunManager" selected="JUnit.LockerTest">
+    <configuration default="false" name="LockerTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="length.*" />
+          <option name="PATTERN" value="com.thoughtworks.locker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Length" />
+      <module name="Lockers" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="length" />
-      <option name="MAIN_CLASS_NAME" value="length.LengthTest" />
+      <option name="PACKAGE_NAME" value="com.thoughtworks.locker" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.locker.LockerTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -341,19 +275,19 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LengthTest.should_100cm_equals_100cm" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="LockerTest.should_not_store_bag_when_locker_is_full" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="length.*" />
+          <option name="PATTERN" value="com.thoughtworks.locker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Length" />
+      <module name="Lockers" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="length" />
-      <option name="MAIN_CLASS_NAME" value="length.LengthTest" />
-      <option name="METHOD_NAME" value="should_100cm_equals_100cm" />
+      <option name="PACKAGE_NAME" value="com.thoughtworks.locker" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.locker.LockerTest" />
+      <option name="METHOD_NAME" value="should_not_store_bag_when_locker_is_full" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -369,19 +303,19 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LengthTest.should_10mm_equals_10mm" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="LockerTest.should_pick_bag_from_locker_by_ticket" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="length.*" />
+          <option name="PATTERN" value="com.thoughtworks.locker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Length" />
+      <module name="Lockers" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="length" />
-      <option name="MAIN_CLASS_NAME" value="length.LengthTest" />
-      <option name="METHOD_NAME" value="should_10mm_equals_10mm" />
+      <option name="PACKAGE_NAME" value="com.thoughtworks.locker" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.locker.LockerTest" />
+      <option name="METHOD_NAME" value="should_pick_bag_from_locker_by_ticket" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -397,19 +331,19 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LengthTest.should_convert_1m_to_100cm" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="LockerTest.should_pick_bag_from_locker_by_used_ticket" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="length.*" />
+          <option name="PATTERN" value="com.thoughtworks.locker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Length" />
+      <module name="Lockers" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="length" />
-      <option name="MAIN_CLASS_NAME" value="length.LengthTest" />
-      <option name="METHOD_NAME" value="should_convert_1m_to_100cm" />
+      <option name="PACKAGE_NAME" value="com.thoughtworks.locker" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.locker.LockerTest" />
+      <option name="METHOD_NAME" value="should_pick_bag_from_locker_by_used_ticket" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -425,19 +359,19 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LengthTest.should_convert_10cm_to_10cm" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="LockerTest.should_pick_bag_from_locker_by_fake_ticket" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="length.*" />
+          <option name="PATTERN" value="com.thoughtworks.locker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="Length" />
+      <module name="Lockers" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="length" />
-      <option name="MAIN_CLASS_NAME" value="length.LengthTest" />
-      <option name="METHOD_NAME" value="should_convert_10cm_to_10cm" />
+      <option name="PACKAGE_NAME" value="com.thoughtworks.locker" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.locker.LockerTest" />
+      <option name="METHOD_NAME" value="should_pick_bag_from_locker_by_fake_ticket" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -467,6 +401,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -493,19 +440,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -545,19 +479,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.LengthTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LengthTest.should_100cm_equals_100cm" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.LengthTest.should_10mm_equals_10mm" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.LengthTest.should_convert_1m_to_100cm" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LengthTest.should_convert_10cm_to_10cm" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LockerTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.LockerTest.should_not_store_bag_when_locker_is_full" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LockerTest.should_pick_bag_from_locker_by_ticket" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LockerTest.should_pick_bag_from_locker_by_used_ticket" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.LockerTest.should_pick_bag_from_locker_by_fake_ticket" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LengthTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.LengthTest.should_convert_1m_to_100cm" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.LengthTest.should_convert_10cm_to_10cm" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LengthTest.should_10mm_equals_10mm" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.LengthTest.should_100cm_equals_100cm" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LockerTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LockerTest.should_not_store_bag_when_locker_is_full" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LockerTest.should_pick_bag_from_locker_by_fake_ticket" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LockerTest.should_pick_bag_from_locker_by_used_ticket" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.LockerTest.should_pick_bag_from_locker_by_ticket" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -568,14 +502,14 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc774dd9-93d5-4294-aeee-e6388fde50ba" name="Default" comment="" />
-      <created>1383038987407</created>
-      <updated>1383038987407</updated>
+      <changelist id="b7ce9df5-4005-40d8-bc8d-a51a22a0852b" name="Default" comment="" />
+      <created>1383643406855</created>
+      <updated>1383643406855</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="30" width="1377" height="746" extended-state="0" />
+    <frame x="0" y="22" width="1402" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -589,19 +523,19 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19759579" sideWeight="0.68370605" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31629393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24705015" sideWeight="0.6479077" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35209236" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -670,76 +604,32 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/locker/Locker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/length/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/com/thoughtworks/locker/LockerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
+        <state line="67" column="0" selection-start="1662" selection-end="1662" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/length/LengthTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/locker/LockerTicket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="34" selection-start="1638" selection-end="1638" vertical-scroll-proportion="0.0">
+        <state line="4" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/length/LengthUnit.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/locker/Bag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/length/Length.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/length/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/length/LengthTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="30" selection-start="1693" selection-end="1693" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/length/LengthUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/length/Length.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="77" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -751,40 +641,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/length/Length.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/locker/Bag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="19" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/length/LengthTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/locker/LockerTicket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="33" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
+        <state line="4" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/length/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/locker/Locker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+        <state line="22" column="21" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/length/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/com/thoughtworks/locker/LockerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="20" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+        <state line="64" column="0" selection-start="1630" selection-end="1630" vertical-scroll-proportion="0.5724466">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/length/LengthUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.4013378">
-          <folding />
         </state>
       </provider>
     </entry>
