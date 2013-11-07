@@ -2,6 +2,10 @@ package com.thoughtworks.locker;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
 import static junit.framework.Assert.assertNotNull;
 import static junit.framework.Assert.assertNull;
 import static junit.framework.Assert.assertSame;
@@ -65,6 +69,70 @@ public class LockerTest {
 
         assertNull(bag);
     }
+
+
+    @Test
+    public void should_robot_store_bag() throws Exception {
+        Locker locker = new Locker(10);
+        LockerRobot robot = new LockerRobot(locker);
+
+        Bag bag = new Bag();
+        LockerTicket ticket = robot.store(bag);
+
+        Bag bag1 = locker.pick(ticket);
+
+        assertNotNull(ticket);
+        assertSame(bag, bag1);
+    }
+
+    @Test
+    public void should_robot_not_store_bag_when_locker_is_full() throws Exception {
+        LockerRobot robot = new LockerRobot(new Locker(0));
+
+        LockerTicket ticket = robot.store(new Bag());
+
+        assertNull(ticket);
+    }
+
+    @Test
+    public void should_robot_can_multi_lockers() throws Exception {
+        List<Locker> lockers = new LinkedList<Locker>();
+        final Locker locker1 = new Locker(1);
+        final Locker locker2 = new Locker(1);
+        lockers.add(locker1);
+        lockers.add(locker2);
+
+        LockerRobot robot = new LockerRobot(lockers);
+
+        Bag bag = new Bag();
+        LockerTicket ticket = robot.store(bag);
+
+        Bag bag1 = locker1.pick(ticket);
+
+        assertNotNull(ticket);
+        assertSame(bag, bag1);
+
+    }
+
+    @Test
+    public void should_robot_pick_bag_by_ticket() throws Exception {
+        List<Locker> lockers = new LinkedList<Locker>();
+        final Locker locker1 = new Locker(1);
+        final Locker locker2 = new Locker(1);
+        lockers.add(locker1);
+        lockers.add(locker2);
+
+        LockerRobot robot = new LockerRobot(lockers);
+
+        Bag bag = new Bag();
+        LockerTicket ticket = robot.store(bag);
+
+        Bag bag1 = robot.pick(ticket);
+
+        assertNotNull(ticket);
+        assertSame(bag, bag1);
+    }
+
 
 
 }
