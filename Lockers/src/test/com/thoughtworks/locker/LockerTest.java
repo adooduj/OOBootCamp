@@ -2,13 +2,10 @@ package com.thoughtworks.locker;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-import static junit.framework.Assert.assertNotNull;
-import static junit.framework.Assert.assertNull;
-import static junit.framework.Assert.assertSame;
+import static junit.framework.Assert.*;
 
 public class LockerTest {
 
